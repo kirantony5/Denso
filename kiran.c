@@ -6,7 +6,7 @@ int main()
     final_p = p;
     
     
-    while(p>9)
+    while(p>1)
     {
         discount_p =(p*d)/100;
         final_p = (final_p) + (p - discount_p);
